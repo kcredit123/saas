@@ -45,7 +45,7 @@ add this to package json
 npm run build
 at GitHub website, create new repository saas and upload files
 git init
-git remote add origin https://github.com/kcredit123/xdiner.git
+git remote add origin https://github.com/kcredit123/saas.git
 git remote -v
 npm run deploy
 
