@@ -1,0 +1,38 @@
+You are a Senior SaaS Product Designer, Growth Marketer, and Full-Stack No-Code Engineer. 
+Build a high-converting SaaS marketing website. 
+Website Name: [[SAAS NAME]] 
+Product Type: [[Automation / AI / Productivity / Analytics]] 
+Primary Goal: Free trials & signups 
+Target Audience: [[Founders / Teams / Enterprises]] 
+Brand Style: Modern, tech-forward 
+FRONTEND REQUIREMENTS 
+Include: 
+• Hero with value proposition & CTA (“Start Free Trial”) 
+• How it works (step-based) 
+• Feature sections with benefits 
+• Use cases by audience 
+• Pricing table 
+• Social proof (logos, testimonials) 
+• FAQ 
+• Conversion CTA section 
+• Footer with legal & socials 
+BACKEND & ADMIN DASHBOARD 
+Include: 
+• Content management (pages, features, blog) 
+• Pricing plan editor 
+• Lead capture forms 
+• SEO tools 
+• Design customization 
+• Analytics-ready structure 
+•  CMS for: 
+• Creating and managing blog posts, product updates, changelogs 
+•  Complete control over: 
+• Page content, pricing tables, feature sections 
+• Themes, colors, fonts, layouts 
+•  Pre-filled placeholder pages and posts to allow immediate publishing 
+DESIGN & TECH 
+• Clean SaaS UI 
+• Responsive 
+• Fast performance 
+• Conversion-optimized layout 
+Generate the full SaaS website structure and admin dashboard. Fully editable and scalable. 

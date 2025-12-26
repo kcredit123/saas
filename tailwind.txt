@@ -1,0 +1,56 @@
+npm create vite@latest .
+npm install
+npm install tailwindcss @tailwindcss/vite
+vite config js
+	import { defineConfig } from 'vite'
+	import react from '@vitejs/plugin-react'
+	import tailwindcss from '@tailwindcss/vite'
+
+	// https://vite.dev/config/
+	export default defineConfig({
+  	plugins: [react(), tailwindcss()],
+	})
+index css
+	@import "tailwindcss";
+postcss config js
+	// postcss.config.js
+     export default {
+  	plugins: {
+    	'@tailwindcss/postcss': {},
+    	autoprefixer: {},
+  	},
+      }
+tailwind config js
+     export default {
+  	content: [
+    	"./index.html",
+    	"./src/**/*.{js,jsx}"
+     ],
+  	theme: {
+    	   extend: {},
+  	},
+  	plugins: [],
+     }
+npm install -D @tailwindcss/postcss
+npm install -D autoprefixer
+npm run dev
+npm install lucide-react
+update app jsx
+npm run dev
+add base: '/saas/', to vite config js
+npm install gh-pages --save-dev
+add this to package json
+	"predeploy": "npm run build",
+    	"deploy": "gh-pages -d dist"
+npm run build
+at GitHub website, create new repository saas and upload files
+git init
+git remote add origin https://github.com/kcredit123/xdiner.git
+git remote -v
+npm run deploy
+
+
+
+
+
+
